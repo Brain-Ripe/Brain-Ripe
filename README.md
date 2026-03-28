@@ -32,7 +32,7 @@ A distributed **Network Observability System** designed for high-frequency data 
 
 ## Tech Stack
 
-**Languages:** `Java (Core & Advanced)` `Go` `SQL (PostgreSQL/MySQL)` `Python` `C++`
+**Languages:** `Java` `Python` `SQL (PostgreSQL/MySQL)` `C++` `Go`
 
 **Frameworks & Core:** `Spring Boot` `Spring Data JPA` `Spring Security` `RESTful APIs`
 
