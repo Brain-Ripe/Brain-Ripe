@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Heyo, I'm Parthav
 
-### Aspiring Backend Developer | Java & Spring Boot Enthusiast | System Architect in Training
+### Aspiring Backend Developer | Java & Spring Boot Enthusiast
 I am learning to build scalable, data-driven backend systems with a focus on performance optimization and reliable data lifecycles.
 
 ---
